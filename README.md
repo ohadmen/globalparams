@@ -48,7 +48,7 @@ param_dict=Params()
 deploy
 ```
 python setup.py sdist
-twine upload -r paramspy dist/*
+twine upload  dist/*
 ```
 -->
 
